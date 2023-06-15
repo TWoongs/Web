@@ -1,0 +1,54 @@
+* {margin: 0;  padding: 0; text-decoration: none;}
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans+KR:wght@100;300;400;500;700;900&display=swap');
+
+.bg00{width: 100vw;
+    height: 100vh;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;}
+
+.bg11 {width: 100vw;
+    height: 2160px;
+    background-size: cover;
+    background-position: center;
+    background-repeat: no-repeat;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-attachment: fixed;}
+
+.bg01 {background-image: url("demi.img/bg_01.png");}
+.bg02 {background-image: url("demi.img/bg_02.png");}
+.bg03 {background-image: url("demi.img/bg_03.png");}
+.bg04 {background-image: url("demi.img/bg_04.png");}
+
+
+.cont01 {width: 346px; height: 273.76px; background-image: url(demi.img/img_01.png); background-repeat: no-repeat; z-index: 20; position: relative; position: absolute; margin-right: 500px;}
+.cont02 {width: 585px; height: 794.75px; background-image: url(demi.img/img_02.png); background-repeat: no-repeat; position: absolute; margin-left: 500px; margin-bottom: 50px;}
+
+.cont03 {width: 219px; height: 261px; background-image: url(demi.img/img_03.png); background-repeat: no-repeat; z-index: 20; position: relative; position: absolute; margin-left: 600px; margin-bottom: 400px;}
+.cont04 {width:  286px; height: 261px; background-image: url(demi.img/img_04.png); background-repeat: no-repeat; z-index: 20; position: relative; position: absolute; margin-right: 550px; margin-top: 500px;}
+.cont05 {width: 780px; height: 914px; background-image: url(demi.img/img_05.png); background-repeat:  no-repeat; position: absolute; margin-right: 200px;}
+.cont05-1 {width:1141px; height: 793px; background-image: url(demi.img/img_05-1.png); background-repeat:  no-repeat; position: absolute; margin-left: 200px;}
+
+.cont06 {width: 735.23px; height: 131.76px; background-image: url(demi.img/img_06.png); background-repeat: no-repeat; position: absolute; margin-bottom: 1750px;}
+.cont07 {width: 1268px; height: 1080px; background-image: url(demi.img/img_07.png); background-repeat: no-repeat; margin-top: 570px; position: absolute;}
+.t1 {font-size: 30px; line-height: 44px; text-align: center; margin-bottom: 1400px; color: #707070; position: absolute; font-family: 'Noto Sans KR';}
+.bt1 {color: #fff; width: 350px; height: 80px; background: #000; text-align: center; line-height:76px; z-index: 20; position: relative; border-radius:60px;  font-size:30px; margin-bottom: 900px; font-family: 'Noto Sans KR';}
+.bt1:hover {background: #999;}
+
+.cont08 {width: 474px; height: 76px; background-image: url(demi.img/img_08.png); position: absolute; margin-bottom: 150px;}
+.cont09 {width: 333px; height: 500px; background-image: url(demi.img/img_09.png); position: absolute; margin-right: 1000px; margin-bottom: 200px;}
+.cont10 {width: 342px; height: 549px; background-image: url(demi.img/img_10.png); position: absolute; margin-left: 900px; margin-top: 399px;}
+.bt2 {color: #fff; width: 350px; height: 80px; background: #000; text-align: center; line-height:76px; z-index: 20; position: relative; border-radius:60px;  font-size:30px; font-family: 'Noto Sans KR'; margin-top: 130px;}
+.bt2:hover {background: #999;}
+
+
+
+
+
+
